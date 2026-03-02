@@ -87,7 +87,7 @@ class PublicController extends Controller
             'modelos' => $modelos,
         ]);
     }
-     */
+    
     public function dConnect()
     {
         return view('d-connect');
